@@ -1,2 +1,2 @@
 # abm-patras-greece
-We present a framework for creating synthetic populations in the Greek territory, utilizing statistical distributions derived from census data from various public sources.
+We present the first steps taken towards a data-driven agent-based model (ABM) specifically designed for simulating infectious disease dynamics in Greece.
